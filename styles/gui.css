@@ -1,0 +1,33 @@
+.ctrimg {
+	height: 20%;
+	width: 20%;
+}
+
+.formctnr {
+	margin-top: 10px;
+}
+
+.itemctnr {
+	border: thin solid gray;
+	margin: 20px 20px 0px 20px;
+	flex-wrap: wrap;
+}
+
+.btnclm {
+	padding: 10px 10px;
+}
+
+.ptile {
+	padding: 20px;
+	flex-wrap: wrap;
+}
+
+.ctile {
+	height: 400px;
+	width: 300px;
+}
+
+.ictile {
+	height: 320px;
+	width: 200px;
+}
