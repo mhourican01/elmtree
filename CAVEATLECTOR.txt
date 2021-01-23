@@ -1,4 +1,4 @@
 This served as a project for my Web Development module.
-The conn.php file has been omitted, as well as any personal information or URLs used in the connection.
+The conn.php file has been depopulated, as well as any personal information or URLs used in the connection.
 The code has not been modified since submission. However, were I to make changes, it is in dire need of comments, 
 and I have since learned not to use "SELECT *" where not all columns are required.
