@@ -18,8 +18,8 @@
 		while($row = $result->fetch_assoc()) {
 			$myuser = $row['EmailAddress'];
 			$myid = $row['ID'];
-			$_SESSION['40130998_user'] = $myuser;
-			$_SESSION['40130998_id'] = $myid;
+			$_SESSION[''] = $myuser;
+			$_SESSION[''] = $myid;
 		}
 		
 		header('location: ../admin/index.php');
